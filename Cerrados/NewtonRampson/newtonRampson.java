@@ -12,7 +12,7 @@ public class newtonRampson {
     }
 
     public static void main(String[] args) {
-        double x0 = 2; // intervalo inicial
+        double x0 = 3; // intervalo inicial
         double tol = 0; // tolerancia
         double error = 1; // error relativo
         int iter = 0; // contador de iteraciones
