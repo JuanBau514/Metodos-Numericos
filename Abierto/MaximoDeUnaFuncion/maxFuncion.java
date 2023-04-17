@@ -57,7 +57,6 @@ public class maxFuncion {
         System.out.println("El valor del punto maximo en x es : " + x4);
         x5 = f(x4);
         System.out.println("El valor del punto maximo en y es : " + x5);
-        
     }
 }
 
