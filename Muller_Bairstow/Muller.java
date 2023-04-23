@@ -1,5 +1,7 @@
 package Muller_Bairstow;
 
+// Realizado por Juan Pablo Bautista CLavijo 20211578104 y Jhoan Stik Hernández García 20212578003
+
 public class Muller {
 
     public static double f(double x) {
